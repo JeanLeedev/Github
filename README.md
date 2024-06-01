@@ -1,2 +1,2 @@
 # Github
-Hello, Word!
+Hello, Github!
